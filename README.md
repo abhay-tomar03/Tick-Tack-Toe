@@ -2,7 +2,7 @@
 
 This is a fully responsive simple tic-tac-toe game written in HTML, CSS, and JavaScript.
 
-**LIVE DEMO** - 
+**LIVE DEMO** - https://abhay-tomar03.github.io/Tick-Tack-Toe/
 
 <p align="center">
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"/>
