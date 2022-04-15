@@ -18,3 +18,4 @@ This is a fully responsive simple tic-tac-toe game written in HTML, CSS, and Jav
 - [CSS3](https://www.w3schools.com/css/)
 - [JavaScript](https://www.w3schools.com/js/DEFAULT.asp)
 - Hosted on [Netlify](https://www.netlify.com/)
+- Netlify Link: https://tick-tack-toe65.netlify.app/
